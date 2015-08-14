@@ -34,3 +34,5 @@ proguard/
 /captures
 
 Volley_lib.iml
+
+gradle
